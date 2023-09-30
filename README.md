@@ -1,0 +1,4 @@
+- Antam
+- I like chess, piano and coding
+- Im learning java and lua
+- That's all, get out
